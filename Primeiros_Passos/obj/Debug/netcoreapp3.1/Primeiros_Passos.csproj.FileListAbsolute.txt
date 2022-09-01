@@ -1,0 +1,14 @@
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\bin\Debug\netcoreapp3.1\Primeiros_Passos.exe
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\bin\Debug\netcoreapp3.1\Primeiros_Passos.deps.json
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\bin\Debug\netcoreapp3.1\Primeiros_Passos.runtimeconfig.json
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\bin\Debug\netcoreapp3.1\Primeiros_Passos.runtimeconfig.dev.json
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\bin\Debug\netcoreapp3.1\Primeiros_Passos.dll
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\bin\Debug\netcoreapp3.1\Primeiros_Passos.pdb
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\obj\Debug\netcoreapp3.1\Primeiros_Passos.csproj.AssemblyReference.cache
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\obj\Debug\netcoreapp3.1\Primeiros_Passos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\obj\Debug\netcoreapp3.1\Primeiros_Passos.AssemblyInfoInputs.cache
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\obj\Debug\netcoreapp3.1\Primeiros_Passos.AssemblyInfo.cs
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\obj\Debug\netcoreapp3.1\Primeiros_Passos.csproj.CoreCompileInputs.cache
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\obj\Debug\netcoreapp3.1\Primeiros_Passos.dll
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\obj\Debug\netcoreapp3.1\Primeiros_Passos.pdb
+C:\Users\icsantos\source\repos\Primeiros_Passos\Primeiros_Passos\obj\Debug\netcoreapp3.1\Primeiros_Passos.genruntimeconfig.cache
